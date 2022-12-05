@@ -1,0 +1,8 @@
+{
+  "name": "@wejendorp/my-test-2",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wejendorp/monorepo-test-releaseplease.git"
+  }
+}
