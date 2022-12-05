@@ -1,5 +1,12 @@
 {
+  "release-type": "node",
   "packages": {
-    "packages/my-test-1": {}
-  }
+    "packages/my-test-1": {},
+    "packages/my-test-2": {}
+  },
+  "plugins": [
+    {
+      "type": "node-workspace"
+    }
+  ]
 }
