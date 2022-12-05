@@ -1,0 +1,20 @@
+{
+  "name": "monorepo-test-releaseplease",
+  "version": "1.0.0",
+  "description": "- Turborepo testing   - npm workspaces - https://github.com/google-github-actions/release-please-action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wejendorp/monorepo-test-releaseplease.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wejendorp/monorepo-test-releaseplease/issues"
+  },
+  "homepage": "https://github.com/wejendorp/monorepo-test-releaseplease#readme",
+  "workspaces": [
+    "packages/*"
+  ]
+}
